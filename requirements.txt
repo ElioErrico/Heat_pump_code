@@ -1,5 +1,5 @@
 CoolProp>=6.4.0
 numpy>=1.21.0
-scipy>=1.6.0
+scipy>=1.10.1    # Versione compatibile con Python 3.11
 matplotlib>=3.5.0
 pytest>=7.0.0
